@@ -22,13 +22,20 @@ Summary of Results
 - The highest job satisfaction by country was for Brazil followed by Netherlands
 - From the heatmap of job satisfaction per role per country we can obvserve that Developers in the mobile ecosystem in Brazil had the highest value.
 
+**
+Project Structure**
 
-Project Structure
-├── data/ # Dataset files 
-│ └── survey_results_public.csv # Stack Overflow Developer Survey 2025 (source link below)
-├── notebooks/
-│ └── Data Operations.ipynb # Jupyter Notebook with analysis
-└── README.md # Project documentation
+Data:
+
+survey_results_public.csv # Stack Overflow Developer Survey 2025 (source link below)
+https://survey.stackoverflow.co/
+
+Notebooks:
+
+Data Operations.ipynb # Jupyter Notebook with analysis
+Documentation: 
+
+README.md # Project documentation
 
 
 Libraries Used
@@ -45,5 +52,7 @@ The analysis was completed in **Python** using the following libraries:
 Acknowledgements
 
 -Dataset provided by Stack Overflow via their annual developer survey.
+
 -Project developed as part of the Udacity Data Scientist Nanodegree.
+
 -Thanks to the open-source Python community for libraries and resources.

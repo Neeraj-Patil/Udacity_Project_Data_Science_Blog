@@ -27,8 +27,9 @@ Project Structure**
 
 Data:
 
-survey_results_public.csv # Stack Overflow Developer Survey 2025 (source link below)
+survey_results_public.csv # Stack Overflow Developer Survey 2025 (Cannot add to github due to size restrictions)
 https://survey.stackoverflow.co/
+
 
 Notebooks:
 
@@ -56,3 +57,4 @@ Acknowledgements
 -Project developed as part of the Udacity Data Scientist Nanodegree.
 
 -Thanks to the open-source Python community for libraries and resources.
+

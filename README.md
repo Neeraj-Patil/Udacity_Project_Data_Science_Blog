@@ -25,21 +25,31 @@ Summary of Results
 
 Project Structure
 
-Data:
+**Data:**
 
 survey_results_public.csv # Stack Overflow Developer Survey 2025 (Cannot add to github due to size restrictions)
 https://survey.stackoverflow.co/
 
+**Graphs:** # Contains the visualizations used in the blog post
 
-Notebooks:
+Heat_Map.png 
 
-Data Operations.ipynb # Jupyter Notebook with analysis
-Documentation: 
+Job_Satisfaction_by_Country.png
 
-README.md # Project documentation
+Job_Satisfaction_by_role.png
 
-BlogPost:
-BlogPost.md # Blog post required for the project
+
+
+**Notebooks:**# Jupyter Notebook with analysis
+
+Data Operations.ipynb 
+
+**Documentation:**  # Project documentation
+
+README.md
+
+**BlogPost:** # Blog post required for the project
+BlogPost.md 
 
 
 Libraries Used
@@ -60,6 +70,7 @@ Acknowledgements
 -Project developed as part of the Udacity Data Scientist Nanodegree.
 
 -Thanks to the open-source Python community for libraries and resources.
+
 
 
 

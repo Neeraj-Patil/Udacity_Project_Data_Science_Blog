@@ -1,6 +1,6 @@
 # Who’s Happiest at Work? Insights from the Stack Overflow Developer Survey 2025
 
-![Job Satisfaction Heatmap](images/role_country_heatmap.png)
+![Job Satisfaction Heatmap](main/Heat Map.png)
 
 ---
 

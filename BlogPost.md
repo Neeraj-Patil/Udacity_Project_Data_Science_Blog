@@ -1,6 +1,6 @@
 # Who’s Happiest at Work? Insights from the Stack Overflow Developer Survey 2025
 
-![Job Satisfaction Heatmap](main/Heat Map.png)
+![Job Satisfaction Heatmap](graphs/Heat_Map.png)
 
 ---
 
@@ -26,7 +26,7 @@ This project uses the **Stack Overflow Developer Survey 2025** to explore patter
 The analysis shows that **Full-Stack Developers** and **Data Scientists** report the highest average satisfaction (~8.3/10).  
 Meanwhile, **QA/Test Engineers** and **System Administrators** report the lowest (~6.5–7/10).  
 
-![Average Satisfaction by Role](images/avg_by_role.png)
+![Average Satisfaction by Role](graphs/Heat_Map.png)
 
 > Key takeaway: Companies may want to explore why certain roles are less satisfied and consider targeted improvements.
 
@@ -37,7 +37,7 @@ Meanwhile, **QA/Test Engineers** and **System Administrators** report the lowest
 Among the top 10 respondent countries, **Canada** and **Germany** show the highest average satisfaction (~8/10),  
 while **India** and **Brazil** have slightly lower averages (~6.8–7/10).  
 
-![Average Satisfaction by Country](images/avg_by_country.png)
+![Average Satisfaction by Country](graphs/Heat_Map.png)
 
 > Key takeaway: Cultural and workplace differences across countries may influence overall developer satisfaction.
 

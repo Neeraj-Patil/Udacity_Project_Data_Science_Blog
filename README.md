@@ -38,6 +38,9 @@ Documentation:
 
 README.md # Project documentation
 
+BlogPost:
+BlogPost.md # Blog post required for the project
+
 
 Libraries Used
 
@@ -57,5 +60,6 @@ Acknowledgements
 -Project developed as part of the Udacity Data Scientist Nanodegree.
 
 -Thanks to the open-source Python community for libraries and resources.
+
 
 

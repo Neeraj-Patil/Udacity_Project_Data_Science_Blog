@@ -1,11 +1,10 @@
 # Who’s Happiest at Work? Insights from the Stack Overflow Developer Survey 2025
 
 
----
-
 ## Introduction
 
 In this blog post I will be using the data from "Stack Overflow Developer Survey 2025" to have a look at how job satisfaction varies with factors like job roles, place of employement and their correlations. Job satisfaction is a very key metric which can contribute to employee productivity and work culture. In this blog I have created some visualizations to try and understand the data from the developer survey.
+The reason for this analysis is to infrom companies of certain roles and countires where developers are less satisfied with their work and help the companies to improve the work enviroment.
 
 
 ## Main questions to be answered: 
@@ -51,11 +50,12 @@ Some roles consistently report higher satisfaction across countries, while other
 
 ## Conclusion
 
-- **Full-Stack Developers** and **Data Scientists** are the most satisfied roles; **QA/Test Engineers** are the least.  
-- **Canada** and **Germany** have the happiest developers; **India** and **Brazil** slightly less.  
-- Satisfaction varies not just by role or country individually, but in combination—highlighting areas where targeted improvements can make the biggest impact.
+- **Founders in technology** and **Senior Executives** are the most satisfied roles; **AI apps** and **game/graphics developers** are the least.  
+- **Brazil** and **Netherlands** show the highest satisfaction among the top 10 countries, while **Germany** and **Poland** are slightly lower.  
+- Satisfaction patterns vary by **role and country**, highlighting opportunities for targeted improvements.
 
 By understanding these trends, organizations can better tailor workplace strategies to increase developer satisfaction and retention.
+
 
 ---
 

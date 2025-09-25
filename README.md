@@ -5,7 +5,7 @@ The analysis focuses on how satisfaction levels differ across developer roles an
 The goal of this project is to find out:
 -How satisfied are developers in different roles?
 -How does job satisfaction vary across different countries?
--What insights can organisations and individuals draw from these visualizations?
+-What is the satisfaction distribution by role across top 10 countries?
 
 
 Overview
@@ -22,8 +22,8 @@ Summary of Results
 - The highest job satisfaction by country was for Brazil followed by Netherlands
 - From the heatmap of job satisfaction per role per country we can obvserve that Developers in the mobile ecosystem in Brazil had the highest value.
 
-**
-Project Structure**
+
+Project Structure
 
 Data:
 
@@ -57,4 +57,5 @@ Acknowledgements
 -Project developed as part of the Udacity Data Scientist Nanodegree.
 
 -Thanks to the open-source Python community for libraries and resources.
+
 

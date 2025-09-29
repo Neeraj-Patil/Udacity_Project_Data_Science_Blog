@@ -48,6 +48,8 @@ Job_Satisfaction_by_Country.png
 
 Job_Satisfaction_by_role.png
 
+Job_Satisfaction_by_Region.png 
+
 
 **Notebooks:**# Jupyter Notebook with analysis
 
@@ -76,6 +78,7 @@ Acknowledgements
 -Project developed as part of the Udacity Data Scientist Nanodegree.
 
 -Thanks to the open-source Python community for libraries and resources.
+
 
 
 

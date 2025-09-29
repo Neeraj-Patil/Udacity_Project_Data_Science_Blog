@@ -3,25 +3,35 @@ Job Satisfaction Analysis – Stack Overflow Developer Survey 2025
 This project explores job satisfaction among developers using the "Stack Overflow Developer Survey 2025".  
 The analysis focuses on how satisfaction levels differ across developer roles and across the top 10 countries with the most respondents.
 The goal of this project is to find out:
--How satisfied are developers in different roles?
+
+-Which developer roles report the highest job satisfaction?
+
 -How does job satisfaction vary across different countries?
--What is the satisfaction distribution by role across top 10 countries?
+
+-Are there regional differences in job satisfaction?
+
+-Which roles are consistently satisfied across multiple countries?
 
 
-Overview
-
-- Dataset: [Stack Overflow Developer Survey 2025](https://insights.stackoverflow.com/survey)  
-- Key Question: *How does job satisfaction vary by role and by country?*  
-- Satisfaction scores range from **0 (lowest)** to **10 (highest)**.  
-- Tools used: **Python, Pandas, Matplotlib, Seaborn, Jupyter Notebook**
+Understanding developer satisfaction helps:  
+- Improve workplace culture and retention  
+- Identify roles with high and low satisfaction  
+- Highlight regional differences  
+- Inform management and HR decisions
 
 
 Summary of Results
 
-- The highest job satisfaction was for job roles with tiles of "Founder" and"Senior executives"
-- The highest job satisfaction by country was for Brazil followed by Netherlands
-- From the heatmap of job satisfaction per role per country we can obvserve that Developers in the mobile ecosystem in Brazil had the highest value.
+- **Highest satisfaction roles:** Founders, Product Managers (~8.55–8.23/10)  
+- **Lowest satisfaction roles:** Applied Scientists, System Administrators (~7.42–7.43/10)  
+- **Countries with highest satisfaction:** Brazil, Netherlands (~7.39–7.36/10)  
+- **Regional satisfaction trend:** South America > North America > Asia > Europe  
+- **Roles consistently satisfied across countries:** Academic Researchers  
 
+**Key Takeaways:**  
+- High-level or strategic roles report higher satisfaction.  
+- Regional differences suggest cultural and workplace influences.  
+- Certain roles maintain high satisfaction across countries, while others vary depending on location.
 
 Project Structure
 
@@ -39,7 +49,6 @@ Job_Satisfaction_by_Country.png
 Job_Satisfaction_by_role.png
 
 
-
 **Notebooks:**# Jupyter Notebook with analysis
 
 Data Operations.ipynb 
@@ -47,9 +56,6 @@ Data Operations.ipynb
 **Documentation:**  # Project documentation
 
 README.md
-
-**BlogPost:** # Blog post required for the project
-BlogPost.md 
 
 
 Libraries Used
@@ -70,6 +76,7 @@ Acknowledgements
 -Project developed as part of the Udacity Data Scientist Nanodegree.
 
 -Thanks to the open-source Python community for libraries and resources.
+
 
 
 
